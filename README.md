@@ -18,7 +18,7 @@ To use the ft_printf function, you need to follow these steps:
 
 Clone the repository:
 ```
-git clone https://github.com/3bduu/ft_printf.git
+git clone https://github.com/3bduu/ft_printf-42cursus.git
 ```
 Navigate to the project directory:
 ```c
