@@ -74,8 +74,6 @@ int main(void) {
 ```
 Output:
 ```
-vbnet
-Copy code
 Hello, world!
 The answer is 42.
 Address: 0x12345678
