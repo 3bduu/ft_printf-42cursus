@@ -6,7 +6,7 @@ This project is part of the 42 Network curriculum and focuses on implementing a 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Supported Format Specifiers](#supportformatspecifiers)
+- [Supported Format Specifiers](#supported_format_specifiers)
 - [Examples](#examples)
 - [Contributing](#contributing)
 
