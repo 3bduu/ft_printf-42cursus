@@ -46,15 +46,15 @@ The format parameter is a string that specifies the format of the output. It may
 ## SupportedFormatSpecifiers
 The ft_printf function supports the following format specifiers:
 
-%c - Character
-%s - String
-%d - Signed decimal integer
-%i - Signed decimal integer
-%u - Unsigned decimal integer
-%x - Unsigned hexadecimal integer (lowercase)
-%X - Unsigned hexadecimal integer (uppercase)
-%p - Pointer address
-%% - Literal percent sign
+* %c - Character
+* %s - String
+* %d - Signed decimal integer
+* %i - Signed decimal integer
+* %u - Unsigned decimal integer
+* %x - Unsigned hexadecimal integer (lowercase)
+* %X - Unsigned hexadecimal integer (uppercase)
+* %p - Pointer address
+* %% - Literal percent sign
 
 For detailed information about the format specifiers and their usage, refer to the printf documentation.
 
