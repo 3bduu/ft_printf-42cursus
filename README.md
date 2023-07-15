@@ -6,9 +6,9 @@ This project is part of the 42 Network curriculum and focuses on implementing a 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Supported Format Specifiers](#support)
+- [Supported Format Specifiers](#support_format_specifiers)
 - [Examples](#examples)
-- [Contributing](#contr)
+- [Contributing](#contributing)
 
 ## Introduction
 The ft_printf function is a custom implementation of the standard printf function in C. It allows you to format and print various types of data to the standard output or a file stream. The function accepts a format string along with optional arguments and replaces placeholders in the format string with the provided values.
