@@ -43,7 +43,7 @@ int ft_printf(const char *format, ...);
 ```
 The format parameter is a string that specifies the format of the output. It may contain ordinary characters, as well as conversion specifications that start with a percent sign (%).
 
-## Supported Format Specifiers
+## SupportedFormatSpecifiers
 The ft_printf function supports the following format specifiers:
 
 %c - Character
