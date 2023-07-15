@@ -3,12 +3,12 @@
 This project is part of the 42 Network curriculum and focuses on implementing a simplified version of the printf function in C programming language. The purpose of this project is to enhance your understanding of variadic functions, parsing, and string formatting.
 
 ## Table of Contents
--[Introduction](#introduction)
--[Installation](#installation)
--[Usage](#usage)
--[Supported Format Specifiers](#support)
--[Examples](#examples)
--[Contributing](#contr)
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Supported Format Specifiers](#support)
+- [Examples](#examples)
+- [Contributing](#contr)
 
 ## Introduction
 The ft_printf function is a custom implementation of the standard printf function in C. It allows you to format and print various types of data to the standard output or a file stream. The function accepts a format string along with optional arguments and replaces placeholders in the format string with the provided values.
